@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vonkp36qg-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vonkp36qg-nodejs
